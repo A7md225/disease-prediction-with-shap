@@ -30,11 +30,11 @@ SHAP values for feature importance
 bash
 Copy
 Edit
-project/
-│
-├── data/                # Dataset files (not included for privacy)
-├── disease_model.ipynb  # Jupyter notebook with full pipeline
-└── README.md            # Project description
+ project/
+. │
+. ├── data/                # Dataset files (not included for privacy)
+. ├── disease_model.ipynb  # Jupyter notebook with full pipeline
+. └── README.md            # Project description
 
 # 🛠️ Requirements
 Python 3.11+
